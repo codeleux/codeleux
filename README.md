@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codeleux
 - 👀 I’m interested in Learning programation
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently learning Javascript & Git
 - 💞️ I’m looking to collaborate on everything in my knowledge
 - 📫 How to reach me ... My discord is leux#3652
 
