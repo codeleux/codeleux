@@ -1,5 +1,7 @@
 studying cs
+
 interested in scripting and backend with node.js
+
 you can contact me through discord! (josuleux)
 
 <!---
